@@ -1,0 +1,138 @@
+﻿Category,Skills
+Data Science,"Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)"
+Data Science,R
+Data Science,Statistical concepts and methods
+Data Science,Machine Learning
+Data Science,Scikit-learn 
+Data Science,TensorFlow 
+Data Science,PyTorch 
+Data Science,Keras
+Data Science,Data Cleaning and Preprocessing
+Data Science,Pandas
+Data Science,Deep Learninig
+Data Science,"Data Exploration and Visualization,"
+Data Science,"Matplotlib, Seaborn, ggplot, Plotly"
+Data Science,"Database and SQL,"
+Data Science,"SQL, SQLite, SQLAlchemy"
+Data Science,"Big Data Technologies:Apache Hadoop, Apache Spark"
+Data Science,Communication Skills:Data storytelling
+Data Science,"Visualization tools: Tableau, Power BI"
+Data Science,Problem-Solving:Creative problem-solving skills
+Web Developer,HTML/CSS
+Web Developer,JavaScript
+Web Developer,"Web Development Frameworks (e.g., React, Angular, Vue.js)"
+Web Developer,Responsive Design
+Web Developer,Version Control/Git
+Web Developer,Web Performance Optimization
+Web Developer,"Backend Programming (Node.js, Python, Ruby on Rails, PHP, etc.)"
+Web Developer,"Database Management (MySQL, PostgreSQL, MongoDB, etc.)"
+Web Developer,APIs (Application Programming Interfaces)
+Web Developer,Web Security Best Practices
+Web Developer,Cross-Browser Development
+Web Developer,"Build Tools and Package Managers (e.g., Webpack, npm, yarn)"
+Web Developer,Command Line/Shell
+Web Developer,Testing/Debugging
+Web Developer,Web Standards and Accessibility
+Web Developer,Collaboration and Version Control (GitHub)
+Web Developer,Problem-Solving Skills
+Web Developer,"Responsive Design Frameworks (e.g., Bootstrap, Foundation)"
+Web Developer,"Content Management Systems (CMS) knowledge (e.g., WordPress, Drupal)"
+Java Developer,Core Java
+Java Developer,Java EE (Enterprise Edition)
+Java Developer,Spring Framework
+Java Developer,Hibernate (or other ORM frameworks)
+Java Developer,"Web Technologies: HTML, CSS, JavaScript"
+Java Developer,"Web Frameworks: JSF, Apache Struts"
+Java Developer,"Database Knowledge: SQL, MySQL, Oracle, PostgreSQL"
+Java Developer,RESTful Web Services
+Java Developer,Version Control: Git
+Java Developer,"Build Tools: Maven, Gradle"
+Java Developer,"Testing Frameworks: JUnit, TestNG"
+Java Developer,"IDE: Eclipse, IntelliJ IDEA, NetBeans"
+Java Developer,Web Servers: Apache Tomcat
+Java Developer,Containerization: Docker
+Java Developer,"CI/CD: Jenkins, Travis CI"
+Java Developer,Security Principles
+Java Developer,Microservices Architecture
+Java Developer,Design Patterns
+Java Developer,Concurrency: Multi-threading
+Java Developer,"Logging and Monitoring: SLF4J, application monitoring tools"
+Python Developer,Python (3.x)
+Python Developer,Django or Flask
+Python Developer,"HTML, CSS, JavaScript"
+Python Developer,"SQL (e.g., PostgreSQL, MySQL)"
+Python Developer,Git
+Python Developer,"BeautifulSoup, Scrapy (for web scraping)"
+Python Developer,RESTful API development and consumption
+Python Developer,"Pandas, NumPy, Matplotlib, Seaborn (for data analysis and visualization)"
+Python Developer,"Scikit-learn, TensorFlow, PyTorch (for machine learning)"
+Python Developer,Pytest or unittest (for testing)
+Python Developer,Asynchronous programming (async/await)
+Python Developer,Docker
+Python Developer,"Front-end frameworks (e.g., React, Angular, Vue.js - optional)"
+Python Developer,"AWS, Azure, Google Cloud (cloud platforms - optional)"
+Python Developer,Microservices architecture
+Python Developer,"Serverless computing (e.g., AWS Lambda)"
+Python Developer,Celery (for task queues)
+Python Developer,"FastAPI, Tornado (RESTful frameworks)"
+Python Developer,"Jenkins, Travis CI, GitLab CI (CI/CD)"
+Python Developer,Web security best practices
+Python Developer,Linux/Unix basics
+Cloud Architect,"Cloud Platforms (e.g., AWS, Azure, Google Cloud)"
+Cloud Architect,"Infrastructure as Code (e.g., Terraform, AWS CloudFormation)"
+Cloud Architect,"Containerization and Orchestration (e.g., Docker, Kubernetes)"
+Cloud Architect,Networking
+Cloud Architect,Security and Compliance
+Cloud Architect,Cloud Storage
+Cloud Architect,Serverless Computing
+Cloud Architect,Microservices Architecture
+Cloud Architect,DevOps Practices
+Cloud Architect,"Automation (e.g., Ansible, Chef, Puppet)"
+Cloud Architect,Virtualization
+Cloud Architect,Monitoring and Logging
+Cloud Architect,Load Balancing
+Cloud Architect,High Availability and Disaster Recovery
+Cloud Architect,Databases in the Cloud
+Cloud Architect,Identity and Access Management (IAM)
+Cloud Architect,Cost Management and Optimization
+Cloud Architect,Cloud Governance
+Cloud Architect,Cloud-native Development
+Cloud Architect,Collaboration and Communication skills
+Devops,"Source Code Management (e.g., Git)"
+Devops,Continuous Integration (CI) and Continuous Deployment (CD)
+Devops,Infrastructure as Code (IaC)
+Devops,"Containerization (e.g., Docker)"
+Devops,"Orchestration (e.g., Kubernetes)"
+Devops,"Automation Tools (e.g., Ansible, Chef, Puppet)"
+Devops,"Scripting (e.g., Bash, Python, Ruby)"
+Devops,"Cloud Platforms (e.g., AWS, Azure, Google Cloud)"
+Devops,Monitoring and Logging Tools
+Devops,Version Control Systems
+Devops,Collaboration and Communication Skills
+Devops,Security Best Practices
+Devops,Networking Fundamentals
+Devops,"Deployment Strategies (e.g., Blue-Green, Canary)"
+Devops,Agile and Scrum Methodologies
+Devops,Configuration Management
+Devops,Release Management
+Devops,Performance Testing and Optimization
+Devops,Incident Response and Management
+IT Consultant,Technical Proficiency:
+IT Consultant,Problem Solving:
+IT Consultant,Analytical Skills:
+IT Consultant,Communication Skills:
+IT Consultant,Client Relationship Management:
+IT Consultant,Project Management:
+IT Consultant,Business Acumen:
+IT Consultant,Adaptability:
+IT Consultant,Strategic Thinking:
+IT Consultant,Vendor Management:
+IT Consultant,Negotiation Skills:
+IT Consultant,Team Collaboration:
+IT Consultant,Presentation Skills:
+IT Consultant,Time Management:
+IT Consultant,Risk Management:
+IT Consultant,Change Management:
+IT Consultant,Industry Knowledge:
+IT Consultant,Client Needs Assessment:
+IT Consultant,Sales and Marketing:
